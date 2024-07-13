@@ -199,7 +199,7 @@
         > apply.
       </p>
       <p class="mt-5 text-center text-sm text-gray-500">
-        © {thisYear} <span class="font-semibold">Hyungyo Seo</span>. All Rights
+        © 2023-{thisYear} <span class="font-semibold">Hyungyo Seo</span>. All Rights
         Reserved.
       </p>
     </div>
